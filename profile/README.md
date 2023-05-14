@@ -1,4 +1,7 @@
-![banner](./banner.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lawlessrpco/.github/main/profile/banner.png" />
+</p>
+
 
 # LawlessRP.co
 We make modern LawlessRP servers, and we also make open source things.
